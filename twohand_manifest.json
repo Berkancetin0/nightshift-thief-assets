@@ -1,0 +1,78 @@
+{
+  "status": "Blender review draft, no Unity export",
+  "category": "two_hand",
+  "items": [
+    {
+      "id": "LOOT_Gold_Bar",
+      "name_tr": "Altın Külçesi",
+      "hold_category": "two_hand",
+      "dimensions_m": [
+        0.3771505653858185,
+        0.16739684343338013,
+        0.09129999577999115
+      ],
+      "support_R": [
+        -0.115,
+        0,
+        0
+      ],
+      "support_L": [
+        0.115,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "LOOT_Wine_Crate",
+      "name_tr": "Şarap Kasası",
+      "hold_category": "two_hand",
+      "dimensions_m": [
+        0.4739999771118164,
+        0.31929999589920044,
+        0.3869999945163727
+      ],
+      "support_R": [
+        -0.185,
+        0,
+        0
+      ],
+      "support_L": [
+        0.185,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "LOOT_Dinosaur_Bone",
+      "name_tr": "Dinozor Kemiği",
+      "hold_category": "two_hand",
+      "dimensions_m": [
+        0.6988544464111328,
+        0.1979999840259552,
+        0.17599999904632568
+      ],
+      "support_R": [
+        -0.18,
+        0,
+        -0.035
+      ],
+      "support_L": [
+        0.18,
+        0,
+        -0.035
+      ]
+    }
+  ],
+  "preview_scenes": [
+    "TWOHAND_Showcase",
+    "TWOHAND_ThirdPerson",
+    "TWOHAND_FirstPerson"
+  ],
+  "integration": "Independent static items, right-hand attachment with left-hand support target. Per-item hold clips authored; locomotion blending, physics and Unity spawning not integrated. First-person raises last 0.8s, item visible from frame1.",
+  "fp_walk_actions": [
+    "FP_TwoHand_Walk_Gold_Bar",
+    "FP_TwoHand_Walk_Wine_Crate",
+    "FP_TwoHand_Walk_Dinosaur_Bone"
+  ],
+  "fp_walk_timing": "30 fps; frames 1-41, final frame repeats first; 40 unique frames"
+}
