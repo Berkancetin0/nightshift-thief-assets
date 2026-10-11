@@ -1,0 +1,523 @@
+{
+  "source": "NightShift_Thief.blend",
+  "animations": 82,
+  "models": 33,
+  "unity_editor_execution": "Not run: editor binary unavailable",
+  "prefabs": "Generated on demand by Tools/Night Shift/Install Current Asset Package",
+  "archive": "NightShiftThief_Unity.unitypackage",
+  "sha256": "b5d39a83961ad925f6d1476ec9c897271bf3b59fe7f91a35f74eb7565ead9698",
+  "files": [
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Empty_Crouch_Idle.fbx",
+      "bytes": 718124
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Empty_Crouch_Walk.fbx",
+      "bytes": 719836
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Empty_Idle.fbx",
+      "bytes": 718124
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Empty_Jump_Air.fbx",
+      "bytes": 596492
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Empty_Jump_Land.fbx",
+      "bytes": 525228
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Empty_Jump_Start.fbx",
+      "bytes": 525228
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Empty_Run.fbx",
+      "bytes": 596492
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Empty_Sneak.fbx",
+      "bytes": 871836
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Empty_Strafe_Left.fbx",
+      "bytes": 636060
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Empty_Strafe_Right.fbx",
+      "bytes": 636028
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Empty_Walk.fbx",
+      "bytes": 636076
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Flashlight_Crouch_Idle.fbx",
+      "bytes": 716572
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Flashlight_Crouch_Walk.fbx",
+      "bytes": 717980
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Flashlight_Idle.fbx",
+      "bytes": 716652
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Flashlight_Jump_Air.fbx",
+      "bytes": 596492
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Flashlight_Jump_Land.fbx",
+      "bytes": 525228
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Flashlight_Jump_Start.fbx",
+      "bytes": 525228
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Flashlight_Run.fbx",
+      "bytes": 596492
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Flashlight_Sneak.fbx",
+      "bytes": 869004
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Flashlight_Strafe_Left.fbx",
+      "bytes": 634828
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Flashlight_Strafe_Right.fbx",
+      "bytes": 634940
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FirstPerson/FP_Flashlight_Walk.fbx",
+      "bytes": 634908
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FPJewelry/FP_Loot_Hold_Necklace.fbx",
+      "bytes": 637788
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FPJewelry/FP_Loot_Hold_Palm.fbx",
+      "bytes": 637788
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FPJewelry/FP_Loot_Raise_Necklace.fbx",
+      "bytes": 596492
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FPJewelry/FP_Loot_Raise_Palm.fbx",
+      "bytes": 596492
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FPTwoHand/FP_TwoHand_Hold_Dinosaur_Bone.fbx",
+      "bytes": 637788
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FPTwoHand/FP_TwoHand_Hold_Gold_Bar.fbx",
+      "bytes": 637788
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FPTwoHand/FP_TwoHand_Hold_Wine_Crate.fbx",
+      "bytes": 637788
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FPTwoHand/FP_TwoHand_Raise_Dinosaur_Bone.fbx",
+      "bytes": 596492
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FPTwoHand/FP_TwoHand_Raise_Gold_Bar.fbx",
+      "bytes": 596492
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FPTwoHand/FP_TwoHand_Raise_Wine_Crate.fbx",
+      "bytes": 596492
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FPTwoHand/FP_TwoHand_Walk_Dinosaur_Bone.fbx",
+      "bytes": 630364
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FPTwoHand/FP_TwoHand_Walk_Gold_Bar.fbx",
+      "bytes": 629724
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/FPTwoHand/FP_TwoHand_Walk_Wine_Crate.fbx",
+      "bytes": 629660
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/CarrySack_Crouch_Down.fbx",
+      "bytes": 596492
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/CarrySack_Crouch_Idle.fbx",
+      "bytes": 726268
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/CarrySack_Crouch_Walk.fbx",
+      "bytes": 744764
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/CarrySack_Equip.fbx",
+      "bytes": 555868
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/CarrySack_Idle.fbx",
+      "bytes": 637788
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/CarrySack_Jump_Air.fbx",
+      "bytes": 596492
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/CarrySack_Jump_Air_Loop.fbx",
+      "bytes": 596492
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/CarrySack_Jump_Land.fbx",
+      "bytes": 525228
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/CarrySack_Jump_Start.fbx",
+      "bytes": 525228
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/CarrySack_Run.fbx",
+      "bytes": 596492
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/CarrySack_Sneak.fbx",
+      "bytes": 913772
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/CarrySack_Strafe_Left.fbx",
+      "bytes": 637788
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/CarrySack_Strafe_Right.fbx",
+      "bytes": 637788
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/CarrySack_Unequip.fbx",
+      "bytes": 555868
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/CarrySack_Walk.fbx",
+      "bytes": 610476
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Crouch_Down.fbx",
+      "bytes": 596492
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Crouch_Idle.fbx",
+      "bytes": 723388
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Crouch_Walk.fbx",
+      "bytes": 742668
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Flashlight_Crouch_Idle.fbx",
+      "bytes": 727164
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Flashlight_Crouch_Walk.fbx",
+      "bytes": 743740
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Flashlight_Idle.fbx",
+      "bytes": 694812
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Flashlight_Jump_Air.fbx",
+      "bytes": 596492
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Flashlight_Jump_Land.fbx",
+      "bytes": 525228
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Flashlight_Jump_Start.fbx",
+      "bytes": 525228
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Flashlight_Run.fbx",
+      "bytes": 596492
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Flashlight_Sneak.fbx",
+      "bytes": 912028
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Flashlight_Strafe_Left.fbx",
+      "bytes": 637788
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Flashlight_Strafe_Right.fbx",
+      "bytes": 637788
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Flashlight_Walk.fbx",
+      "bytes": 610476
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Jump_Air.fbx",
+      "bytes": 596492
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Jump_Air_Loop.fbx",
+      "bytes": 596492
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Jump_Land.fbx",
+      "bytes": 525228
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Jump_Start.fbx",
+      "bytes": 525228
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Run.fbx",
+      "bytes": 596492
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Sack_Close.fbx",
+      "bytes": 654700
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Sack_Insert_Item.fbx",
+      "bytes": 602892
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Sack_Open.fbx",
+      "bytes": 654620
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Sack_Open_Idle.fbx",
+      "bytes": 637788
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Sneak.fbx",
+      "bytes": 911244
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Strafe_Left.fbx",
+      "bytes": 637788
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Strafe_Right.fbx",
+      "bytes": 637788
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/ThirdPerson/Walk.fbx",
+      "bytes": 610476
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/TPJewelry/Jewelry_Hold_Necklace.fbx",
+      "bytes": 637788
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/TPJewelry/Jewelry_Hold_Palm.fbx",
+      "bytes": 637788
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/TPTwoHand/TP_TwoHand_Hold_Dinosaur_Bone.fbx",
+      "bytes": 637788
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/TPTwoHand/TP_TwoHand_Hold_Gold_Bar.fbx",
+      "bytes": 637788
+    },
+    {
+      "path": "Assets/NightShiftThief/Animations/TPTwoHand/TP_TwoHand_Hold_Wine_Crate.fbx",
+      "bytes": 637788
+    },
+    {
+      "path": "Assets/NightShiftThief/Data/catalog.json",
+      "bytes": 42385
+    },
+    {
+      "path": "Assets/NightShiftThief/Data/jewelry_authoring.json",
+      "bytes": 4792
+    },
+    {
+      "path": "Assets/NightShiftThief/Data/twohand_authoring.json",
+      "bytes": 1849
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/FirstPerson.fbx",
+      "bytes": 432348
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/FirstPerson_Flashlight.fbx",
+      "bytes": 660636
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/FPJewelry_Diamond.fbx",
+      "bytes": 439676
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/FPJewelry_Emerald_Pendant.fbx",
+      "bytes": 552940
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/FPJewelry_Gold_Bangle.fbx",
+      "bytes": 477356
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/FPJewelry_Pearl_Necklace.fbx",
+      "bytes": 523788
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/FPJewelry_Ruby_Ring.fbx",
+      "bytes": 461564
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/FPJewelry_Sapphire_Brooch.fbx",
+      "bytes": 496732
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/FPTwoHand_Dinosaur_Bone.fbx",
+      "bytes": 452540
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/FPTwoHand_Gold_Bar.fbx",
+      "bytes": 513436
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/FPTwoHand_Wine_Crate.fbx",
+      "bytes": 569964
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/ITEM_Flashlight_Pickup.fbx",
+      "bytes": 238028
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/ITEM_Loot_Sack_Pickup.fbx",
+      "bytes": 21228
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/LOOT_Diamond.fbx",
+      "bytes": 18764
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/LOOT_Dinosaur_Bone.fbx",
+      "bytes": 31612
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/LOOT_Emerald_Pendant.fbx",
+      "bytes": 132028
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/LOOT_Gold_Bangle.fbx",
+      "bytes": 56444
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/LOOT_Gold_Bar.fbx",
+      "bytes": 92508
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/LOOT_Pearl_Necklace.fbx",
+      "bytes": 102860
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/LOOT_Ruby_Ring.fbx",
+      "bytes": 40636
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/LOOT_Sapphire_Brooch.fbx",
+      "bytes": 75804
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/LOOT_Wine_Crate.fbx",
+      "bytes": 149036
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/ThirdPerson.fbx",
+      "bytes": 649164
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/ThirdPerson_Flashlight.fbx",
+      "bytes": 877452
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/TPJewelry_Diamond.fbx",
+      "bytes": 421004
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/TPJewelry_Emerald_Pendant.fbx",
+      "bytes": 534284
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/TPJewelry_Gold_Bangle.fbx",
+      "bytes": 458700
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/TPJewelry_Pearl_Necklace.fbx",
+      "bytes": 505116
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/TPJewelry_Ruby_Ring.fbx",
+      "bytes": 442892
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/TPJewelry_Sapphire_Brooch.fbx",
+      "bytes": 478060
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/TPTwoHand_Dinosaur_Bone.fbx",
+      "bytes": 433852
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/TPTwoHand_Gold_Bar.fbx",
+      "bytes": 494748
+    },
+    {
+      "path": "Assets/NightShiftThief/Models/TPTwoHand_Wine_Crate.fbx",
+      "bytes": 551292
+    },
+    {
+      "path": "Assets/NightShiftThief/Scripts/Editor/NightShiftPackageSetup.cs",
+      "bytes": 14772
+    },
+    {
+      "path": "Assets/NightShiftThief/Scripts/Editor/ThiefRagdollSetup.cs",
+      "bytes": 5774
+    },
+    {
+      "path": "Assets/NightShiftThief/Scripts/LootSackSpring.cs",
+      "bytes": 3651
+    },
+    {
+      "path": "Assets/NightShiftThief/Scripts/NightShiftClipPlayer.cs",
+      "bytes": 681
+    },
+    {
+      "path": "Assets/NightShiftThief/Scripts/SackEquipment.cs",
+      "bytes": 1876
+    },
+    {
+      "path": "Assets/NightShiftThief/Scripts/SackInteractionEvents.cs",
+      "bytes": 1643
+    },
+    {
+      "path": "Assets/NightShiftThief/Scripts/ThiefBagSpring.cs",
+      "bytes": 4196
+    },
+    {
+      "path": "Assets/NightShiftThief/Scripts/ThiefRagdoll.cs",
+      "bytes": 2844
+    },
+    {
+      "path": "Assets/NightShiftThief/START_HERE_TR.md",
+      "bytes": 4808
+    },
+    {
+      "path": "Assets/NightShiftThief/Textures/Thief_BaseColor.png",
+      "bytes": 1227936
+    }
+  ]
+}

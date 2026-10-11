@@ -1,23 +1,17 @@
 # NightShift Thief Assets
 
-Latest editable Blender snapshot of the low-poly thief character project for future Unity use.
+## Unity package
+Download `NightShiftThief_Unity.unitypackage`, import it into your Unity project, then run **Tools > Night Shift > Install Current Asset Package**.
 
-## Start here
-Open `NightShift_Thief.blend` in Blender. This source snapshot includes the existing character, animation actions, first-person arms, flashlight, jewelry and the new two-hand loot previews.
+The package contains **82 FBX animation clips and 33 model variants**, an atlas texture, material definitions, and Unity scripts. The setup tool creates materials, Animator Controllers, 33 prefabs, narrow flashlight beams, standalone item colliders/rigidbodies and death-only ragdoll setup in the receiving project.
 
-## Two-hand loot
-- Gold bar
-- Wine crate with six bottles
-- Dinosaur bone
+**Read [UNITY_START_HERE_TR.md](UNITY_START_HERE_TR.md) before importing.** Built-in and URP setup is supplied. Unity Editor was unavailable here; compilation, prefab generation and play-mode checks remain to be performed in your project. Generated prefabs are not prebuilt inside this archive. Gameplay, inventory, networking, movement and camera-layer integration remain project-specific.
 
-Scenes: `TWOHAND_Showcase`, `TWOHAND_FirstPerson`, `TWOHAND_ThirdPerson`.
-First-person preview: frames 1-90 gold, 91-180 crate, 181-270 bone. Press Space to play.
+## Blender source
+`NightShift_Thief.blend` is the latest editable source snapshot: character, existing actions, first-person hands, flashlight, jewelry, sack and two-hand loot. Keep this file outside Unity Assets; use the exported FBXs.
 
-The latest first-person framing lowers the shoulders and items to preserve visibility. Hold, raise and walk-sway actions are separate. Items remain independent meshes.
+Scenes: `TWOHAND_Showcase`, `TWOHAND_FirstPerson`, `TWOHAND_ThirdPerson`. Two-hand preview frames: 1–90 gold, 91–180 wine crate, 181–270 dinosaur bone. The latest framing keeps arms and objects lower in the view.
 
-See `TWOHAND_USAGE.md` and `twohand_manifest.json` for action names and integration notes.
+`TWOHAND_USAGE.md` and `twohand_manifest.json` record Blender authoring notes. The current Unity package catalog is `Assets/NightShiftThief/Data/catalog.json` inside the package. `unity_package_manifest.json` records the archive hash and file inventory.
 
-## Status
-Blender source/review snapshot. This repository does not contain a configured Unity project. Inventory, player animation blending and runtime item physics still require Unity integration. Third-person two-hand clips are support poses, not full locomotion. No outdated FBX exports, backup versions, temporary previews or previous final ZIPs are included.
-
-Preserve original actions when making changes. Do not treat PREVIEW actions or display objects as production export assets.
+Old backups, outdated exports and review-only animation clips are excluded from the Unity package. The Blender source retains display scenes for editing and review.
